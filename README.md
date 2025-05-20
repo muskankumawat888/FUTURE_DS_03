@@ -11,6 +11,6 @@ In this project, I worked with 700+ social media posts to uncover trending topic
 - Trend lines tracking engagement shifts over time
 - User Engagement by Platform
 
-**Dashboard:** 
+**Dashboard:** [View](https://github.com/muskankumawat888/FUTURE_DS_03/blob/main/Project%203.png)
 
  
